@@ -1,8 +1,8 @@
 # OpenVector
 
-Community build guide and bill-of-materials for a VectorCam-style mosquito-imaging device (smartphone + 3D-printed clip-on lens/light attachment).
+Community build guide and bill-of-materials for a VectorCam devices.
 
-The live build guide lives at a Claude Artifact page. This repo is the **data source** behind it: the parts catalog, reference PDFs, and STL files. The page fetches directly from this repo, so pushing a file here is how you update the live site — no separate "send Claude a spreadsheet" step needed for anything that lives here.
+The live build guide lives at a Claude Artifact page. This repo is the data source behind it: the parts catalog, reference PDFs, and STL files. The page fetches directly from this repo, so pushing a file here is how you update the live site.
 
 ## Structure
 
