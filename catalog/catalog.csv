@@ -1,7 +1,7 @@
 id,category,item,spec,unit,cost,href,qtyPerUnit
-phone-motorola,phone,Motorola Moto G Play 2021,placeholder,device,79.99,https://www.amazon.com/Unlocked-Motorola-Moto-Play-PAL60003US/dp/B08TMTBK6G,1
-phone-tecno,phone,Tecno Pop 20,placeholder,device,80,#,0
-phone-samsung,phone,Samsung A32,placeholder,device,98.89,https://www.amazon.com/SAMSUNG-A32-Unlocked-Android-Smartphone/dp/B0967RGC2H,0
+phone-MotorolaMotoGPlay,phone,Motorola Moto G Play 2021,placeholder,device,79.99,https://www.amazon.com/Unlocked-Motorola-Moto-Play-PAL60003US/dp/B08TMTBK6G,1
+phone-TecnoPop20,phone,Tecno Pop 20,placeholder,device,80,#,0
+phone-SamsungA32,phone,Samsung A32,placeholder,device,98.89,https://www.amazon.com/SAMSUNG-A32-Unlocked-Android-Smartphone/dp/B0967RGC2H,0
 hw-lens,hardware,Lens Kit,placeholder,device,5.99,https://www.amazon.com/dp/B08PBH52Q8,1
 hw-solderless,hardware,USB-C Solderless Adapter,placeholder,pack of 5 ,8.77,https://www.amazon.com/dp/B0GGRGB85W,0.2
 hw-splitter,hardware,USB-C Splitter,placeholder,pack of 2,13.99,https://www.amazon.com/dp/B0G94NXB92,0.5
