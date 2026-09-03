@@ -1,14 +1,21 @@
 id,category,item,spec,unit,cost,href,qtyPerUnit
-phone-MotorolaMotoGPlay,phone,Motorola Moto G Play 2021,placeholder,device,79.99,https://www.amazon.com/Unlocked-Motorola-Moto-Play-PAL60003US/dp/B08TMTBK6G,1
-phone-TecnoPop20,phone,Tecno Pop 20,placeholder,device,80,#,0
-phone-SamsungA32,phone,Samsung A32,placeholder,device,98.89,https://www.amazon.com/SAMSUNG-A32-Unlocked-Android-Smartphone/dp/B0967RGC2H,0
-hw-lens,hardware,Lens Kit,placeholder,device,5.99,https://www.amazon.com/dp/B08PBH52Q8,1
-hw-solderless,hardware,USB-C Solderless Adapter,placeholder,pack of 5 ,8.77,https://www.amazon.com/dp/B0GGRGB85W,0.2
-hw-splitter,hardware,USB-C Splitter,placeholder,pack of 2,13.99,https://www.amazon.com/dp/B0G94NXB92,0.5
-hw-180,hardware,USB-C 180 Degree Adapter,placeholder,pack of 2,7.99,https://www.amazon.com/dp/B0BXCTRN7F,0.5
-hw-connector,hardware,"LED Strip Connector, 8mm",placeholder,pack of 20,8.99,https://www.amazon.com/dp/B0BXS2QQXZ,0.1
-hw-led,hardware,LED Strip,placeholder,2 120LED spools,11.99,https://www.amazon.com/dp/B08M65DKZ7,0.016666666666666666
-hw-red,hardware,22 AWG PVC Wire (Red),placeholder,1000ft spool,59.99,https://www.amazon.com/dp/B00DP28SFY,0.002099737532808399
-hw-black,hardware,22 AWG PVC Wire (Black),placeholder,1000ft spool,59.99,https://www.amazon.com/dp/B00DP2H8UA,0.002099737532808399
-fil-petg,filament,PETG (White),placeholder,1kg spool,15.99,https://www.amazon.com/dp/B0CMC78XKT,0.18
-lab-eppendorfs,lab,Eppendorf Tubes,placeholder,pack of 100,9.99,https://www.amazon.com/dp/B0BBV68SZT,0
+phone-MotorolaMotoGPlay-1,phone,Motorola Moto G Play 2021,placeholder,device,79.99,https://www.amazon.com/Unlocked-Motorola-Moto-Play-PAL60003US/dp/B08TMTBK6G,1
+phone-TecnoPop20-1,phone,Tecno Pop 20,placeholder,device,80,#,0
+phone-SamsungA32-1,phone,Samsung A32,placeholder,device,98.89,https://www.amazon.com/SAMSUNG-A32-Unlocked-Android-Smartphone/dp/B0967RGC2H,0
+hw-lens-1,hardware,Lens Kit,placeholder,device,5.99,https://www.amazon.com/dp/B08PBH52Q8,1
+hw-lens-2,hardware,Lens Kit,placeholder,device,#,#,#
+hw-solderless-1,hardware,USB-C Solderless Adapter,placeholder,pack of 5 ,8.77,https://www.amazon.com/dp/B0GGRGB85W,0.2
+hw-solderless-2,hardware,USB-C Solderless Adapter,placeholder,MOQ of 100,28.00,https://www.alibaba.com/product-detail/Type-C-Micro-Male-to-2Pin_1601593844136.html?spm=a2700.prosearch.normal_offer.d_image.229a67afIjm7Mq&priceId=881ba6694b844158b0624bb84e10df7e,.01
+hw-splitter-1,hardware,USB-C Splitter,placeholder,pack of 2,13.99,https://www.amazon.com/dp/B0G94NXB92,0.5
+hw-splitter-2,hardware,USB-C Splitter,placeholder,device,1.63,https://www.alibaba.com/product-detail/60w-Fast-Charging-Usbc-TYPE-C_1601418018257.html?spm=a2700.image-text-search.normal_offer.d_image.223067affwhKgs&priceId=c0e0a1f8bd4342988890b717c05c713d,1
+hw-180-1,hardware,USB-C 180 Degree Adapter,placeholder,pack of 2,7.99,https://www.amazon.com/dp/B0BXCTRN7F,0.5
+hw-180-2,hardware,USB-C 180 Degree Adapter,placeholder,MOQ of 10,9.60,https://www.alibaba.com/product-detail/Type-C-Computer-Game-Machine-100W_1601636971024.html?spm=a2700.image-text-search.normal_offer.d_image.17c267af2lp5Jt&priceId=af84d2134dde4d328578bd1a1e8bf765,.1
+hw-connector-1,hardware,"LED Strip Connector, 8mm",placeholder,pack of 20,8.99,https://www.amazon.com/dp/B0BXS2QQXZ,0.1
+hw-connector-2,hardware,"LED Strip Connector, 10mm",placeholder,MOQ of 100,12.00,https://www.alibaba.com/product-detail/COB-SMD-Led-Connector-5-8_1601318221090.html?spm=a2700.prosearch.normal_offer.d_image.1ed767afDFqAlD&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=8d8be10b7795469a87e88cdacfeeb802,.01
+hw-led-1,hardware,LED Strip,placeholder,2 120LED spools,11.99,https://www.amazon.com/dp/B08M65DKZ7,0.016666666666666666
+hw-led-2,hardware,LED Strip,placeholder,300 LED spool,8.92,https://www.alibaba.com/product-detail/5M-2835-SMD-LED-Strip-Light_1600850076467.html?spm=a2700.prosearch.normal_offer.d_image.126b67afVePuBQ&priceId=34ce2003ae7b40d6a781efd8793ad355,.013333333333333333
+hw-red-1,hardware,22 AWG PVC Wire (Red),placeholder,1000ft spool,59.99,https://www.amazon.com/dp/B00DP28SFY,0.002099737532808399
+hw-black-1,hardware,22 AWG PVC Wire (Black),placeholder,1000ft spool,59.99,https://www.amazon.com/dp/B00DP2H8UA,0.002099737532808399
+fil-petg-1,filament,PETG (White),placeholder,1kg spool,15.99,https://www.amazon.com/dp/B0CMC78XKT,0.18
+fil-petg-2,filament,PETG (White),placeholder,1kg spool,3.36,https://www.alibaba.com/product-detail/5M-2835-SMD-LED-Strip-Light_1600850076467.html?spm=a2700.prosearch.normal_offer.d_image.126b67afVePuBQ&priceId=34ce2003ae7b40d6a781efd8793ad355,0.18
+lab-eppendorfs-1,lab,Eppendorf Tubes,placeholder,pack of 100,9.99,https://www.amazon.com/dp/B0BBV68SZT,0
