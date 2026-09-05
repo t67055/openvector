@@ -6,6 +6,6 @@ The full build guide — with an interactive parts list, cost calculator, and st
 
 **[Build guide →](https://claude.ai/code/artifact/afdf79ba-fde8-4a13-9ad4-b09d487b3546)**
 
-OpenVector is a community build guide. Visit[vectorcam.org](https://vectorcam.org) for more details.
+OpenVector is a community build guide. Visit [vectorcam.org](https://vectorcam.org) for more details.
 
 ## Repository structure
