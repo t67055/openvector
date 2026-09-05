@@ -1,8 +1,11 @@
-One subfolder per approved phone model, named to match that phone's catalog id in catalog/catalog.csv (strip the phone- prefix and the trailing -<number> — e.g. phone-MotorolaMotoGPlay-1 → MotorolaMotoGPlay/). Files inside are named <FolderName>-<PartName>-<version>.stl, e.g. MotorolaMotoGPlay-Body-1.6.STL. There's no fixed part list or fixed count per phone — add whatever that phone needs.
+# OpenVector
 
-Universal parts — the same physical part regardless of phone model — sit directly in this folder (not inside a phone subfolder), named <PartName>.STL:
+An open-source hardware and data repository for **VectorCam** — an AI-enabled mosquito-imaging tool built around a smartphone and a 3D-printed clip-on lens/light attachment. This repo holds everything a builder needs: the bill of materials, reference documents, and 3D-printable parts.
 
-SpecimenTray.STL — specimen tray
-TubeTray.STL — tube tray
+The full build guide — with an interactive parts list, cost calculator, and step-by-step instructions for Plan, Print, Assemble, Qualify, and Deploy — is here:
 
-SamsungA32/ and TecnoPop20/ don't have any parts uploaded yet — that's expected, not an error, until files are added.
+**[Build guide →](https://claude.ai/code/artifact/afdf79ba-fde8-4a13-9ad4-b09d487b3546)**
+
+OpenVector is a community build guide, not an official VectorCam release. Credit to JHU CBID and [vectorcam.org](https://vectorcam.org) for the original device and research.
+
+## Repository structure
