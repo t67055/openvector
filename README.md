@@ -9,3 +9,17 @@ The full build guide — with an interactive parts list, cost calculator, and st
 OpenVector is a community build guide. Visit [vectorcam.org](https://vectorcam.org) for more details.
 
 ## Repository structure
+catalog/
+catalog.csv Bill of materials — phones, hardware, filament, and lab equipment,
+with sourcing links and cost. This is the source of truth for the
+build guide's parts list; the guide re-syncs from this file.
+docs/
+tool-specifications.pdf
+assembly-instructions.pdf
+print-specifications.pdf
+app-install.pdf
+qualification-instructions.pdf
+documentation-guidelines.pdf
+stl/
+3D-printable parts. See stl/README.md for the folder layout and naming convention.
+
