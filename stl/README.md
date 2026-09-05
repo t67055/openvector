@@ -1,8 +1,8 @@
-One subfolder per approved phone model — `motorola/`, `samsung/`, `tecno/` (matching the phone rows in `catalog/catalog.csv`). Inside each, four files with these exact names:
+One subfolder per approved phone model, named to match that phone's catalog id in catalog/catalog.csv (strip the phone- prefix and the trailing -<number> — e.g. phone-MotorolaMotoGPlay-1 → MotorolaMotoGPlay/). Files inside are named <FolderName>-<PartName>-<version>.stl, e.g. MotorolaMotoGPlay-Body-1.6.STL. There's no fixed part list or fixed count per phone — add whatever that phone needs.
 
-- `housing.stl` — phone clip housing
-- `lens.stl` — lens barrel
-- `tray.stl` — specimen tray
-- `diffuser.stl` — light diffuser
+Universal parts — the same physical part regardless of phone model — sit directly in this folder (not inside a phone subfolder), named <PartName>.STL:
 
-A new phone model added to the catalog gets its own folder here with the same four filenames.
+SpecimenTray.STL — specimen tray
+TubeTray.STL — tube tray
+
+SamsungA32/ and TecnoPop20/ don't have any parts uploaded yet — that's expected, not an error, until files are added.
